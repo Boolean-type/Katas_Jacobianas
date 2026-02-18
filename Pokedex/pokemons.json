@@ -1,0 +1,17 @@
+{
+    "Pikachu": {
+        "nombre": "Pikachu",
+        "tipo": "Rayo",
+        "nivel": 18,
+        "vida": 140,
+        "fuerza": 25,
+        "defensa": 17,
+        "velocidad": 180,
+        "movimientos": [
+            "Disparo_rapido",
+            "Ocho_manos",
+            "Finta",
+            "Cafe_explosivo"
+        ]
+    }
+}
